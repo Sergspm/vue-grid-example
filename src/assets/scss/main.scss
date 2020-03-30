@@ -1,0 +1,42 @@
+@import 'utils/fonts.scss';
+@import 'utils/reset.scss';
+
+body {
+  font-family: 'PT Serif', serif;
+  font-size: 14px;
+  line-height: 1.2;
+  font-weight: normal;
+  color: #838d8f;
+  background: #eeeeee;
+}
+.tag {
+  display: inline-block;
+  padding: 2px 5px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+.bluish-purple--bg-color {
+  background: #6b3de4 !important;
+}
+.dull-orange--bg-color {
+  background: #d9a34a !important;
+}
+.greenish--bg-color {
+  background: #41a674 !important;
+}
+.cerulean--bg-color {
+  background: #007ac2 !important;
+}
+.white--bg-color {
+  background: #fff !important;
+}
+.light-indigo--bg-color {
+  background: #674ed6 !important;
+}
+
+
